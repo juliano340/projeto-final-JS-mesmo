@@ -27,7 +27,7 @@ Este projeto foi desenvolvido por um grupo de estudantes da **ADA** durante o m�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/juliano340/projeto-final-JS-mesmo
    ```
 2. Navegue até o diretório do projeto:
    ```bash
