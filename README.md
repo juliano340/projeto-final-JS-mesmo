@@ -31,7 +31,7 @@ Este projeto foi desenvolvido por um grupo de estudantes da **ADA** durante o m�
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd projeto-final-JS-mesmo
    ```
 3. Abra o arquivo `index.html` em seu navegador.
 
